@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <img src="https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif" width="250" height="200">
 
