@@ -8,8 +8,7 @@
 [![Twitter Badge](http://img.shields.io/badge/-@dish_kewl?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/dish_kewl)](https://twitter.com/dish_kewl) 
 [![GitHub followers](https://img.shields.io/github/followers/p-disha?label=Follow&style=social)](https://github.com/p-disha/?tab=follow) 
 [![Gmail Badge](https://img.shields.io/badge/-dishapapneja?style=social&logo=Gmail&logoColor=red&link=mailto:disha.papneja@nyu.edu)](mailto:disha.papneja@nyu.edu) 
-![](https://visitor-badge.glitch.me/badge?page_id=p-disha.visitor-badge)
-![](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fp-disha.github.io)
+![](https://komarev.com/ghpvc/?username=p-disha)
 
 
 
@@ -35,3 +34,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
