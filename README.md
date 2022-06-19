@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently a Computer Science Graduate student at NYU. I deeply believes in the power of data driven software systems and how it has the potential to add immense value for a larger good and how it can completely transform a business. I try to extract value from messy data and develop softwares to drive automation. In addition to computing and AI, I'm interested in philosophy, sustainable energy, neuroscience and genetics.
 - 🌱 I’m currently learning **Deep Learning & Machine Learning Concepts and working on a couple of projects on the same!**
-- 👯 I’m looking to collaborate on **Data Science, Deep Learning, Machine Learning, Computer Vision, AI!**. Hit me up if you have any projects/ opportunities related to these.
+- 👯 I’m looking to collaborate on **Data Science, Deep Learning, Machine Learning, Computer Vision, AI !**. Hit me up if you have any projects/ opportunities related to these.
 - 🤔 I’m working as a **Software Developer at AWS**
 - 📫 How to reach me :  <a href="https://www.linkedin.com/in/dishapapneja"> <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=2159024400&v=beta&t=itrwplyUUwPAVxqxN8THySQds9p401UaOtZIurSBVnA" width="30" height="30" ></a>  | [Mail](mailto:disha.papneja@nyu.edu) 
 - 😄 Pronouns: She/ Her
