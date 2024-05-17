@@ -13,8 +13,8 @@
 
 - 🔭 I’m a Software Developer. I deeply believes in the power of data driven software systems and how it has the potential to add immense value for a larger good and how it can completely transform a business. I try to extract value from messy data and develop softwares to drive automation. In addition to computing and AI, I'm interested in philosophy, sustainable energy, neuroscience and genetics.
 - 🤔 I’m **currently open to new opportunities**. I have worked for AWS, IBM, Axtria in the past.
-- 💬 Ask me about **Cloud Computing, AWS, Pythhon**
-- 🌱 I’m currently learning **Deep Learning & Machine Learning Concepts and working on a couple of projects on the same!**
+- 💬 Ask me about **Cloud Computing, AWS, Python, Node, Typescript**
+- 🌱 I’m currently learning **GCP, Deep Learning & Machine Learning Concepts **
 - 👯 I’m looking to collaborate on **Data Science, Deep Learning, Machine Learning, Computer Vision, AI !**. Hit me up if you have any projects/ opportunities related to these.
 - 📫 How to reach me :  <a href="https://www.linkedin.com/in/dishapapneja"> <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=2159024400&v=beta&t=itrwplyUUwPAVxqxN8THySQds9p401UaOtZIurSBVnA" width="30" height="30" ></a>  | [Mail](mailto:disha.papneja@nyu.edu) | [Book a meeting with me](https://calendly.com/disha_papneja)
 - 😄 Pronouns: She/ Her
