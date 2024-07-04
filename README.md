@@ -4,7 +4,6 @@
 # Disha Papneja
 
 [![Linkedin Badge](https://img.shields.io/badge/-dishapapneja-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/dishapapneja/)](https://www.linkedin.com/in/dishapapneja/) 
-[![Twitter Badge](http://img.shields.io/badge/-@dish_kewl?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/dish_kewl)](https://twitter.com/dish_kewl) 
 [![GitHub followers](https://img.shields.io/github/followers/p-disha?label=Follow&style=social)](https://github.com/p-disha/?tab=follow) 
 [![Gmail Badge](https://img.shields.io/badge/-dishapapneja?style=social&logo=Gmail&logoColor=red&link=mailto:disha.papneja@nyu.edu)](mailto:disha.papneja@nyu.edu) 
 ![](https://komarev.com/ghpvc/?username=p-disha)
