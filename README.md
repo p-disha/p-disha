@@ -12,12 +12,12 @@
 
 - 🔭 I’m a Software Developer. I deeply believes in the power of data driven software systems and how it has the potential to add immense value for a larger good and how it can completely transform a business. I try to extract value from messy data and develop softwares to drive automation. In addition to computing and AI, I'm interested in philosophy, sustainable energy, neuroscience and genetics.
 - 🤔 I’m **currently open to new opportunities**. I have worked for AWS, IBM, Axtria in the past.
-- 💬 Ask me about **Cloud Computing, AWS, Python, Node, Typescript**
-- 🌱 I’m currently learning **GCP, Deep Learning & Machine Learning Concepts **
-- 👯 I’m looking to collaborate on **Data Science, Deep Learning, Machine Learning, Computer Vision, AI !**. Hit me up if you have any projects/ opportunities related to these.
+- 💬 Ask me about **Cloud Computing, AWS, Python, Node.js, Typescript, Langchain/Langgraph, Autogen, Backend Engineering, Infra, Platform Engineering**
+- 🌱 I’m currently learning **GCP, Deep Learning , Computer Vision, Agentic AI concepts **
+- 👯 I’m looking to collaborate on **Data Science, Deep Learning, Machine Learning, Computer Vision, Agentic AI, Infra, Platform Engineering, Backen Engineering, Scaling+Performance problems, Automation solutions!**. Hit me up if you have any projects/ opportunities related to these.
 - 📫 How to reach me :  <a href="https://www.linkedin.com/in"> <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=2159024400&v=beta&t=itrwplyUUwPAVxqxN8THySQds9p401UaOtZIurSBVnA" width="30" height="30" ></a>  | [Mail](mailto:) | [Book a meeting with me](https://calendly.com/)
 - 😄 Pronouns: She/ Her
-- ⚡ Fun fact: **I'm an avid reader of non fiction (biographies and business mostly), I love hiking and playing chess. I've started learning Ukelele. I also love to try weird food combos to make a new dish**
+- ⚡ Fun fact: **I'm an avid reader of non fiction (biographies, medical (genes, psychology/cognition) and business mostly), I love hiking and playing chess. I've started learning Ukelele. I also love to try weird food combos to make a new dish**
 
 <!--
 **p-disha/p-disha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
