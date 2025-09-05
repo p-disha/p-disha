@@ -1,7 +1,7 @@
 
 <img src="https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif" width="250" height="200">
 
-# D
+# Disha
 
 [![Linkedin Badge](https://img.shields.io/badge/--blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in//) 
 [![GitHub followers](https://img.shields.io/github/followers/p-disha?label=Follow&style=social)](https://github.com/p-disha/?tab=follow) 
